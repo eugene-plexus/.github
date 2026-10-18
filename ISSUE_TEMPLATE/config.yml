@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Report a problem
+    url: https://github.com/eugene-plexus/specs/issues/new/choose
+    about: Report bugs and ask questions in one place. You don't need to know which part of Eugene is at fault.
+  - name: Report a security vulnerability
+    url: https://github.com/eugene-plexus/specs/security/advisories/new
+    about: Report it privately. Please don't open a public issue.
